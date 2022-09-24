@@ -7,3 +7,7 @@ elif N < 1 or N > 7:
 else:
     print('Рабочий день')
 
+#     git remote add origin https://github.com/Sionist/Task_dz.git
+#  git branch -M main 
+# git push -u origin main
+
